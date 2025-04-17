@@ -1,4 +1,4 @@
-# Altadefinizione Film Downloader
+# Altadefinizione Film Downloader.
 
 This Python script allows you to download films from Altadefinizione, an Italian website known for providing streaming and downloading services for movies and TV shows. The script automates the process of extracting video URLs, handling JavaScript execution, and downloading the films to your local machine.
 
